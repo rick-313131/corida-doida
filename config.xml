@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.gmail.rd1808569coridateste"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>coridinha</name>
+
+  <description>
+      corida jogo
+  </description>
+
+  <author href="https://build.phonegap.com" email="rd1808569@gmail.com">
+      Hardeep Shoker
+  </author>
+um aluno qualquer
+<icon <src
+</widget>
